@@ -1,0 +1,10 @@
+[
+  {
+    "role": "user",
+    "content": "哈喽"
+  },
+  {
+    "role": "assistant",
+    "content": "API 错误: 状态码 404"
+  }
+]
